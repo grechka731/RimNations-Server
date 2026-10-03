@@ -3,7 +3,15 @@
 
 [![Runtime](https://img.shields.io/badge/Runtime-Mono%206.x%20%7C%20.NET%20Framework%204.7.2-blue.svg)](https://www.mono-project.com/)
 [![Built By](https://img.shields.io/badge/Code-100%25%20Vibecode%20(Google%20Antigravity%20AI)-orange.svg)](#важное-уведомление--это-всё-вайбкод-)
-[![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)](LICENSE)
+[![Release](https://img.shields.io/github/v/release/grechka731/RimNations-Server?color=blue&label=Server%20Release)](https://github.com/grechka731/RimNations-Server/releases/latest)
+[![Download](https://img.shields.io/badge/Download-Server%20v1.0.0.zip-brightgreen.svg)](https://github.com/grechka731/RimNations-Server/releases/download/v1.0.0/RimNations-Dedicated-Server-v1.0.0.zip)
+
+---
+
+### 🚀 Быстрый запуск сервера (Без компиляции)
+> Для быстрого развертывания сервера на Windows или Debian 13 скачайте готовый автономный архив из раздела **[Releases](https://github.com/grechka731/RimNations-Server/releases/latest)**:
+> **[`RimNations-Dedicated-Server-v1.0.0.zip`](https://github.com/grechka731/RimNations-Server/releases/download/v1.0.0/RimNations-Dedicated-Server-v1.0.0.zip)**.
+> Распакуйте и запустите `StartServer.bat` на Windows или `start_server.sh` на Debian/Ubuntu!
 
 ---
 
