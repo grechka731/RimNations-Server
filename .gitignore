@@ -1,0 +1,29 @@
+# Visual Studio & .NET Build Artifacts
+.vs/
+[Bb]in/
+[Oo]bj/
+[Bb]uild[Oo]utput/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+# Mono & Runtime logs
+*.log
+*.tmp
+*.bak
+*.dat1
+*.dat2
+*.dat3
+
+# Server dynamic player saves & runtime caches (keep Settings.json and World.dat templates)
+Server/Data/*.txt
+Server/Data/DataPlayers/*
+!Server/Data/DataPlayers/.gitkeep
+Server/Data/Temp/*
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini

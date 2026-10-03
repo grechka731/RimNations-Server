@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{494BF83E-1606-4444-AE3B-2A47B78CDD5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnionDll", "Client\UnionDll\UnionDll.csproj", "{F56C7BF9-B101-4470-8B39-CE92FBC072C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{494BF83E-1606-4444-AE3B-2A47B78CDD5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{494BF83E-1606-4444-AE3B-2A47B78CDD5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{494BF83E-1606-4444-AE3B-2A47B78CDD5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{494BF83E-1606-4444-AE3B-2A47B78CDD5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F56C7BF9-B101-4470-8B39-CE92FBC072C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F56C7BF9-B101-4470-8B39-CE92FBC072C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F56C7BF9-B101-4470-8B39-CE92FBC072C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F56C7BF9-B101-4470-8B39-CE92FBC072C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
